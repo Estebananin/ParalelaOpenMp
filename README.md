@@ -9,9 +9,9 @@ Se realiza una explicación documentada de los códigos respectivamente organiza
 
 *edit*
 ### Repositorios
-| Nombre           | Detalle                                                     |
+| Nombre           | Detalle                                                         |
 |------------------|-----------------------------------------------------------------|
-| hello-mp         | Hello world in open-mp                                          |
+| hello-mp         | Impresión de hola en open-mp                                    |
 | parallel-loop-1  | traversing a loop in parallel                                   |
 | avrage-reduction | calculating avg by using `atomic` and `reduction` concepts      |
 | heap-vs-stack    | sharing(global) and not sharing data(local) between threads.    |
@@ -21,5 +21,6 @@ Se realiza una explicación documentada de los códigos respectivamente organiza
 | linkedlist       | consuming linkedlist in multiple threads in a thread-safety way |
 | Als              | movie recommender system using alternating least squares method  |
 
+Para un entendimiento completo de los algoritmos, utilizar la documentación de OpenMp: www.openmp.org/
 
 

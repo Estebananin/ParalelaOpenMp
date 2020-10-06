@@ -22,5 +22,5 @@ Se realiza una explicación documentada de los códigos respectivamente organiza
 | Als              | movie recommender system using alternating least squares method  |
 
 Para un entendimiento completo de los algoritmos, utilizar la documentación de OpenMp: www.openmp.org/
-
+Además, para conocer mejor las claúsulas: https://docs.microsoft.com/en-us/cpp/parallel/openmp/reference/openmp-clauses?view=vs-2019
 

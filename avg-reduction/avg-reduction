@@ -52,7 +52,7 @@ void avg_round_robin() {
 
 
 /***
-	Método: 	avg_round_robin()
+	Método: 	avg_reduction()
 	Función:	Imprime el tiempo tomado en realizar este procedimiento por hilo (usando claúsula "parallel for reduction")
 	
 	*******     Reduce específica que una o más variables que son privadas para cada hilo serán

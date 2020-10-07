@@ -9,17 +9,17 @@ Se realiza una explicación documentada de los códigos respectivamente organiza
 
 *edit*
 ### Repositorios
-| Nombre           | Detalle                                                         |
-|------------------|-----------------------------------------------------------------|
-| hello-mp         | Impresión de hola en open-mp                                    |
-| parallel-loop-1  | traversing a loop in parallel                                   |
-| avrage-reduction | calculating avg by using `atomic` and `reduction` concepts      |
-| heap-vs-stack    | sharing(global) and not sharing data(local) between threads.    |
-| data-sharing     | private, first-private, initialization concepts                 |
-| integral         | calculating integral in various ways to demonstrate approaches  |
-| scheduling       | thread scheduling                                               |
-| linkedlist       | consuming linkedlist in multiple threads in a thread-safety way |
-| Als              | movie recommender system using alternating least squares method  |
+| Nombre           | Detalle                                                            |
+|------------------|-----------------------------------------------------------------   |
+| hello-mp         | Impresión de hola en open-mp                                       |
+| parallel-loop-1  | Recorrido de un ciclo con claúsula paralela                        |
+| avrage-reduction | Cálculo de promedio comparando 'atomic' y 'reduction'              |
+| heap-vs-stack    | sharing(global) and not sharing data(local) between threads.       |
+| data-sharing     | Conceptos de 'private', 'first-private' e inicialización           |
+| integral         | Cálculo de integral usando diferentes cláusulas en un algoritmo    |
+| scheduling       | Planificación con hilos                                            |
+| linkedlist       | Uso de listas enlazadas con procesamiento a través de varios hilos |
+| Als              | movie recommender system using alternating least squares method    |
 
 Para un entendimiento completo de los algoritmos, utilizar la documentación de OpenMp: www.openmp.org/
 Además, para conocer mejor las claúsulas: https://docs.microsoft.com/en-us/cpp/parallel/openmp/reference/openmp-clauses?view=vs-2019

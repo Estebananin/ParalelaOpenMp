@@ -1,5 +1,5 @@
 /***
-	Programa: 	heapstack.cpp
+	Programa: 	main.cpp
 	Autor: 	  	Mustafa Atik
 	Modificado: E. López - J. García
 	Función:  	Este algoritmo genera y opera matrices entre si. Realiza: suma, resta, multiplicacion y la transpuesta.  

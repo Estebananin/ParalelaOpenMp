@@ -12,13 +12,13 @@
 using namespace std;
 
 int main() {
-    cout << "the begin of loop" << endl;
+    printf("the begin of loop");
 
     #pragma omp parallel for
     for (int i = 0; i < 10; ++i) {
         cout << i;
     }
-    cout << endl << "the end of loop" << endl;
+    printf("the end of loop");
 
 //    Expected output will be similar to this:
 //    the begin of loop

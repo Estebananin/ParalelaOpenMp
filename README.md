@@ -14,7 +14,7 @@ Se realiza una explicación documentada de los códigos respectivamente organiza
 | hello-mp         | Impresión de hola en open-mp                                       |
 | parallel-loop-1  | Recorrido de un ciclo con claúsula paralela                        |
 | avrage-reduction | Cálculo de promedio comparando 'atomic' y 'reduction'              |
-| heap-vs-stack    | sharing(global) and not sharing data(local) between threads.       |
+| heap-vs-stack    | Suma y conteo de pilas a través de compartimiento por hios         |
 | data-sharing     | Conceptos de 'private', 'first-private' e inicialización           |
 | integral         | Cálculo de integral usando diferentes cláusulas en un algoritmo    |
 | scheduling       | Planificación con hilos                                            |

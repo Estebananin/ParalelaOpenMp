@@ -1,7 +1,7 @@
 /***
 	Programa: 	movie.c
 	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
+	Modificado: 	E. López - J. García
 	Función:  	Algoritmo de generación de sistema de recomendación de películas que utiliza el método 
 				de mínimos cuadrados alternos.
 	Fecha: 		3 de octubre, 2020
@@ -24,20 +24,20 @@ int ratingsRows = 0;
 int ratingsCols = 0;
 
 /** Inicialización de funciones del algoritmo **/
-void load_csv (char *path, int  **ratings);														// 1
-void factorize();																				// 2
-int getRandomNumber(); 																			// 3
+void load_csv (char *path, int  **ratings);												// 1
+void factorize();															// 2
+int getRandomNumber(); 															// 3
 void initRandomMatrix(int **matrix, int rows, int cols); 										// 4
-void als(int **ratings, int maxUserId, int maxMovieId, int rank, int threadNumber);	 			// 5
+void als(int **ratings, int maxUserId, int maxMovieId, int rank, int threadNumber);	 						// 5
 float sumElements(int **matrix, int rows, int cols);											// 6
-void square(int **matrix, int rows, int cols, int **result);									// 7
-void subsctracMatrixes(int **m1, int **m2, int rows, int cols, int **result);					// 8
-void getCol(int **matrix, int rows, int nCol, int **result);									// 9
-void setCol(int **matrix, int rows, int nCol, int *newCol, int **result);						// 10
-void multiplyMatrixes(int **m1, int **m2, int colsRows, int rowsM1, int colsM2, int **result);	// 11
-void transpose(int **matrix, int rows, int cols, int **transpose);	  							// 12  
-void sumVectors(int *v1, int *v2,  int size, int **result); 									// 13
-void escalarByVector(float escalar, int *vector, int size, int **result);						// 14
+void square(int **matrix, int rows, int cols, int **result);										// 7
+void subsctracMatrixes(int **m1, int **m2, int rows, int cols, int **result);								// 8
+void getCol(int **matrix, int rows, int nCol, int **result);										// 9
+void setCol(int **matrix, int rows, int nCol, int *newCol, int **result);								// 10
+void multiplyMatrixes(int **m1, int **m2, int colsRows, int rowsM1, int colsM2, int **result);						// 11
+void transpose(int **matrix, int rows, int cols, int **transpose);	  								// 12  
+void sumVectors(int *v1, int *v2,  int size, int **result); 										// 13
+void escalarByVector(float escalar, int *vector, int size, int **result);								// 14
 int multiplyRowByCol(int *row, int *col, int size) ;											// 15
 /** Fin inicialización de funciones **/
 

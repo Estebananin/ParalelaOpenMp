@@ -24,7 +24,6 @@ Se realiza una explicación documentada de los códigos respectivamente organiza
 | integral         | Cálculo de integral usando diferentes cláusulas en un algoritmo    |
 | scheduling       | Planificación con hilos                                            |
 | linkedlist       | Uso de listas enlazadas con procesamiento a través de varios hilos |
-| Als              | Sistema de recomendación de películas que utiliza el método de mínimos cuadrados alternos    |
 
 Para un entendimiento completo de los algoritmos, utilizar la documentación de OpenMp: www.openmp.org/
 Además, para conocer mejor las claúsulas: https://docs.microsoft.com/en-us/cpp/parallel/openmp/reference/openmp-clauses?view=vs-2019

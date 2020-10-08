@@ -1,13 +1,12 @@
 /***
-	Programa: 	main.c
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	Este algoritmo genera y opera matrices entre si. Realiza: suma, resta, multiplicacion y la transpuesta.  
-	Fecha: 		3 de octubre, 2020
+	Programa: 		 main.c
+	Autor: 	  		 Mustafa Atik
+	Implementado en c: 	 E. López - J. García
+	Función:  		 Este algoritmo genera y opera matrices entre si. Realiza: suma, resta, multiplicacion y la transpuesta.  
+	Fecha de implementación: 3 de octubre, 2020
  ***/
  
 #include <stdio.h>
-
 
 struct Matrix {
     double *data;

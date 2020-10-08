@@ -1,10 +1,10 @@
 /***
-	Programa: 	sched.cpp
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	Uso de diferentes claúsulas de agendamiento de OMP para la realización de la toma de tiempo promedio 
-				alternando entre static, dynamic y auto (automatic).
-	Fecha: 		3 de octubre, 2020
+	Programa: 			sched.cpp
+	Autor: 	  			Mustafa Atik
+	Documentado por: 		E. López - J. García
+	Función:  			Uso de diferentes claúsulas de agendamiento de OMP para la realización de la toma de tiempo promedio 
+					alternando entre static, dynamic y auto (automatic).
+	Fecha de documentado: 		3 de octubre, 2020
  ***/
 
 #include <iostream>

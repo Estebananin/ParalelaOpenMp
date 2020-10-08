@@ -1,10 +1,10 @@
 /***
-	Programa: 	avg-reduction.cpp
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	Algoritmo que realiza un promedio y escribe el tiempo que tarda en realizar este procedimiento 
+	Programa: 		avg-reduction.cpp
+	Autor: 	  		Mustafa Atik
+	Documentado por: 	E. López - J. García
+	Función:  		Algoritmo que realiza un promedio y escribe el tiempo que tarda en realizar este procedimiento 
 				variando en las claúsulas de OMP que se utiliza para el procedimiento. 	 
-	Fecha: 		3 de octubre, 2020
+	Fecha de documentación:	3 de octubre, 2020
  ***/
  
 #include <iostream>

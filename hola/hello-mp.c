@@ -10,8 +10,6 @@
 #include <stdio.h>
 #include <omp.h>
 
-using namespace std;	
-
 int main() {
 	/*** Región Paralela OMP ***/
     #pragma omp parallel

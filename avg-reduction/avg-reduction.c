@@ -1,12 +1,12 @@
 /***
-	Programa: 	avg-reduction.c
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
+	Programa: 			avg-reduction.c
+	Autor: 	  			Mustafa Atik
+	Implementado en c por: 		E. López - J. García
 	Función:  	Algoritmo que realiza un promedio y escribe el tiempo que tarda en realizar este procedimiento 
 				variando en las claúsulas de OMP que se utiliza para el procedimiento. 	 
-	Fecha: 		3 de octubre, 2020
+	FFecha de implementación: 	3 de octubre, 2020
  ***/
- 
+
 #include <stdio.h>
 #include <omp.h>
 

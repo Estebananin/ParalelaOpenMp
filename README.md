@@ -15,14 +15,15 @@ Se realiza una explicación documentada de los códigos respectivamente organiza
 ### Repositorios
 | Nombre           | Detalle                                                            |
 |------------------|-----------------------------------------------------------------   |
-| hello-mp         | Impresión de hola en open-mp                                       |
-| parallel-loop-1  | Recorrido de un ciclo con claúsula paralela                        |
-| avrage-reduction | Cálculo de promedio comparando 'atomic' y 'reduction'              |
-| heap-vs-stack    | Suma y conteo de pilas a través de compartimiento por hios         |
-| data-sharing     | Conceptos de 'private', 'first-private' e inicialización           |
-| integral         | Cálculo de integral usando diferentes cláusulas en un algoritmo    |
-| scheduling       | Planificación con hilos                                            |
-| linkedlist       | Uso de listas enlazadas con procesamiento a través de varios hilos |
+| hello-mp         | Impresión de hola en open-mp.                                      |
+| parallel-loop-1  | Recorrido de un ciclo con claúsula paralela.                       |
+| avrage-reduction | Cálculo de promedio comparando 'atomic' y 'reduction'.             |
+| heap-vs-stack    | Suma y conteo de pilas a través de compartimiento por hios.        |
+| data-sharing     | Conceptos de 'private', 'first-private' e inicialización.          |
+| integral         | Cálculo de integral usando diferentes cláusulas en un algoritmo.   |
+| scheduling       | Planificación con hilos.                                           |
+| linkedlist       | Uso de listas enlazadas con procesamiento a través de varios hilos.|
+| Als              | Algoritmo de recomendación de películas.                           |
 
 Para un entendimiento completo de los algoritmos, utilizar la documentación de OpenMp: www.openmp.org/
 

@@ -5,6 +5,7 @@ Para el desarrollo de este, seguimos el trabajo de Mustafa Atik (muatik) en su r
 
 ## Colaboradores
 Esteban López - esteban.lopez@correo.usa.edu.co
+
 Jordan García - jordan.garcia@correo.usa.edu.co 
 
 ### Descripción 

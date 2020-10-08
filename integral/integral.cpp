@@ -1,11 +1,11 @@
 /***
-	Programa: 	integral.cpp
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	Este algoritmo muestra el resultado en tiempo de integrales utilizando el mismo procedimiento
+	Programa: 		integral.cpp
+	Autor: 	  		Mustafa Atik
+	Documentado por: 	E. López - J. García
+	Función:  		Este algoritmo muestra el resultado en tiempo de integrales utilizando el mismo procedimiento
 				pero alternando las claúsulas de pragma entre parallel, parallel + atomic, omp parallel for reduction
 				y parallel for private(x) reduction(+:sum)	
-	Fecha: 		3 de octubre, 2020
+	Fecha de documentado:	3 de octubre, 2020
  ***/
 
 #include <iostream>

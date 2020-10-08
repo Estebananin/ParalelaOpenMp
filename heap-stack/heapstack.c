@@ -1,5 +1,5 @@
 /***
-	Programa: 		 heapstack.cpp
+	Programa: 		 heapstack.c
 	Autor: 	  		 Mustafa Atik
 	Implementado en c: 	 E. López - J. García
 	Función:  		 Este algortimo realiza un breve conteo de pila según los hilos dados en "omp_set_num_threads" 

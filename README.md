@@ -8,6 +8,9 @@ Esteban López - esteban.lopez@correo.usa.edu.co
 
 Jordan García - jordan.garcia@correo.usa.edu.co 
 
+#### Institución
+Universidad Sergio Arboleda 
+
 ### Descripción 
 En el ejercicio de aprendizaje sobre la herramienta OpenMP en la clase de Fundamentos de programación paralela.
 Se realiza una explicación documentada de los códigos respectivamente organizados.

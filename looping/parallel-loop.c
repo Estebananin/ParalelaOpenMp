@@ -1,9 +1,9 @@
 /***
-	Programa: 	parallel-loop.c
-	Autor: 	  	Mustafa Atik
-	Modificado: 	E. López - J. García
-	Función:  	Algoritmo breve de realización de un ciclo en una claúsula de parallel.
-	Fecha: 		  4 de octubre, 2020	
+	Programa: 		 parallel-loop.c
+	Autor: 	  		 Mustafa Atik
+	Implementado en c: 	 E. López - J. García
+	Función:  		 Algoritmo breve de realización de un ciclo en una claúsula de parallel.
+	Fecha de implementación: 4 de octubre, 2020	
  ***/
 
 #include <stdio.h>

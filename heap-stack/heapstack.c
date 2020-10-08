@@ -1,9 +1,9 @@
 /***
-	Programa: 	heapstack.cpp
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	Este algortimo realiza un breve conteo de pila según los hilos dados en "omp_set_num_threads" 
-	Fecha: 		3 de octubre, 2020
+	Programa: 		 heapstack.cpp
+	Autor: 	  		 Mustafa Atik
+	Implementado en c: 	 E. López - J. García
+	Función:  		 Este algortimo realiza un breve conteo de pila según los hilos dados en "omp_set_num_threads" 
+	Fecha de implementación: 3 de octubre, 2020
  ***/
 
 #include <stdio.h>

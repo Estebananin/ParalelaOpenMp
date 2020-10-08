@@ -1,7 +1,7 @@
 /***
 	Programa: 	queues.cpp
 	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
+	Modificado: 	E. López - J. García
 	Función:  	Este algoritmo crea estructuras de nodos y colas llenas de nodos, que posteriormente 
 				son procesadas por un metodo que detiene la ejecución en un valor aleatorio por cada
 				nodo creado para esta.	

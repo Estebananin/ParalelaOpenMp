@@ -1,9 +1,9 @@
 /***
-	Programa: 	parallel-loop.cpp
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	Algoritmo breve de realización de un ciclo en una claúsula de parallel.
-	Fecha: 		4 de octubre, 2020	
+	Programa: 		parallel-loop.cpp
+	Autor: 	  		Mustafa Atik
+	Documentado por: 	E. López - J. García
+	Función:  		Algoritmo breve de realización de un ciclo en una claúsula de parallel.
+	Fecha de documentación: 4 de octubre, 2020	
  ***/
 
 #include <iostream>

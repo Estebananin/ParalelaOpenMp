@@ -9,8 +9,6 @@
 #include <stdio.h>
 #include <omp.h>
 
-using namespace std;
-
 int main() {
     printf("the begin of loop");
 

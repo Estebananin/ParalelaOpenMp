@@ -1,10 +1,11 @@
 /***
-	Programa: 	hello-mp.c
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	En este algoritmo se hace uso de la región paralela de OpenMp 
-				para la escritura de texto haciendo uso de diferentes hilos según
-				se hayan configurado en el comando "omp_get_thread_num()"  
+	Programa: 		 hello-mp.c
+	Autor: 	  		 Mustafa Atik
+	Implementado en c: 	 E. López - J. García
+	Función:  		 En este algoritmo se hace uso de la región paralela de OpenMp 
+				 para la escritura de texto haciendo uso de diferentes hilos según
+				 se hayan configurado en el comando "omp_get_thread_num()"  
+	Fecha de implementación: 3 de Octubre
  ***/
 #include <stdio.h>
 #include <omp.h>

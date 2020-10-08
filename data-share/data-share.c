@@ -12,7 +12,6 @@
 #include <omp.h>
 
 void compare_cases();
-using namespace std;
 
 double G = 2.1;  		//Esta variable no se verá afectada en ningún punto ya que es estática en el algoritmo
 

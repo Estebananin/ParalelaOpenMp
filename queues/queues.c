@@ -10,7 +10,6 @@
 
 #include <stdio.h>
 #include <omp.h>
-#include <zconf.h>
 
 /*** 
 	Estructura: Node (Nodo)

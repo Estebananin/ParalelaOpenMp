@@ -1,9 +1,9 @@
 /***
-	Programa: 	main.cpp
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	Este algoritmo genera y opera matrices entre si. Realiza: suma, resta, multiplicacion y la transpuesta.  
-	Fecha: 		3 de octubre, 2020
+	Programa: 		main.cpp
+	Autor: 	  		Mustafa Atik
+	Documentado por: 	E. López - J. García
+	Función:  		Este algoritmo genera y opera matrices entre si. Realiza: suma, resta, multiplicacion y la transpuesta.  
+	Fecha de documentación:	3 de octubre, 2020
  ***/
 #include <iostream>
 #include <sstream>

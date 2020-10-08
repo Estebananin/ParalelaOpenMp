@@ -1,10 +1,10 @@
 /***
-	Programa: 	movie.cpp
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	Algoritmo de generación de sistema de recomendación de películas que utiliza el método 
-				      de mínimos cuadrados alternos.
-	Fecha: 		3 de octubre, 2020
+	Programa: 		movie.cpp
+	Autor: 	  		Mustafa Atik
+	Documentado por: 	E. López - J. García
+	Función:  		Algoritmo de generación de sistema de recomendación de películas que utiliza el método 
+				de mínimos cuadrados alternos.
+	Fecha de documentación:	3 de octubre, 2020
  ***/
 
 #include <iostream>

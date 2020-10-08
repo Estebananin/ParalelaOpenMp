@@ -12,7 +12,6 @@ Jordan García - jordan.garcia@correo.usa.edu.co
 En el ejercicio de aprendizaje sobre la herramienta OpenMP en la clase de Fundamentos de programación paralela.
 Se realiza una explicación documentada de los códigos respectivamente organizados.
 
-*edit*
 ### Repositorios
 | Nombre           | Detalle                                                            |
 |------------------|-----------------------------------------------------------------   |
@@ -26,5 +25,6 @@ Se realiza una explicación documentada de los códigos respectivamente organiza
 | linkedlist       | Uso de listas enlazadas con procesamiento a través de varios hilos |
 
 Para un entendimiento completo de los algoritmos, utilizar la documentación de OpenMp: www.openmp.org/
+
 Además, para conocer mejor las claúsulas: https://docs.microsoft.com/en-us/cpp/parallel/openmp/reference/openmp-clauses?view=vs-2019
 

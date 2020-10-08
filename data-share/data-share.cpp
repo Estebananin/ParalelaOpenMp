@@ -1,11 +1,11 @@
 /***
-	Programa: 	data-share.cpp
-	Autor: 	  	Mustafa Atik
-	Modificado: E. López - J. García
-	Función:  	En este algoritmo se hace una presentación del funcionamiento de las 
+	Programa: 		data-share.cpp
+	Autor: 	  	 	Mustafa Atik
+	Documentado por: 	E. López - J. García
+	Función:  		En este algoritmo se hace una presentación del funcionamiento de las 
 				variables "private" y "firstprivate" evidenciando sus diferencias haciendo
 				uso de la región paralela de OMP.
-	Fecha: 		3 de octubre, 2020	
+	Fecha de documentación:	3 de octubre, 2020	
  ***/
  
 #include <iostream>

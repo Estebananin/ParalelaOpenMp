@@ -14,7 +14,7 @@ int main() {
 
     #pragma omp parallel for
     for (int i = 0; i < 10; ++i) {
-        cout << i;
+        printf("%d", i);
     }
     printf("the end of loop");
 
